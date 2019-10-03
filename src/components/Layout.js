@@ -67,7 +67,7 @@ const Layout = props => {
                         </div>
                         <div class="box video-description">
                         <p><strong>Uploaded on September 30, 2019</strong></p>
-                        <p>Lorum ipsum and friends at MTV unplugged playing Long May You Run.</p>
+                        <p>Lorum ipsum dolor sit amet condusplicing eliquaim</p>
                         </div>
                     </div>
                 </div>
