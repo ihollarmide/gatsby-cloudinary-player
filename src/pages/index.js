@@ -1,3 +1,13 @@
 import React from "react"
+import Layout from "../components/Layout"
+import VideoPlayer from "../components/VideoPlayer"
 
-export default () => <div>Hello world!</div>
+const IndexPage = () => {
+    return (
+        <Layout>
+            <VideoPlayer publicId="fifa-trailer"/>
+        </Layout>
+    )
+}
+
+export default IndexPage;
