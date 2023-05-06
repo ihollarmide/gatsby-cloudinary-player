@@ -18,7 +18,7 @@
     "cloudinary-core": "^2.7.4",
     "cloudinary-react": "^1.2.1",
     "cloudinary-video-player": "^1.2.1",
-    "gatsby": "^2.15.28",
+    "gatsby": "^5.9.0",
     "gatsby-plugin-sass": "^2.1.17",
     "lodash": "^4.17.15",
     "node-sass": "^4.12.0",
